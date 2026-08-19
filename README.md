@@ -14,3 +14,7 @@ Six focused tools on one shared core. Each answers a question a small team actua
 Every repository here is the **free edition** — fully functional, Apache-2.0, running the same engine as the paid tiers. Pro and Team tiers (higher limits, more alert channels, team features) and the complete **[Sentinel Suite](https://whop.com/sentinel-suite)** bundle are on Whop.
 
 Running Cisco Secure Firewall? **[Firewall Operations Platform](https://whop.com/firewall-ops-platform)** covers the Cisco-depth side: upgrade orchestration, content updates, dead object cleanup, NAT-aware event mapping, and flow graphs for FMC & FTD.
+
+---
+
+Weekly security habits, explained for people who don't work in security: [Instagram @nizartuanku](https://instagram.com/nizartuanku)
