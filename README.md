@@ -13,6 +13,8 @@ Six focused tools on one shared core. Each answers a question a small team actua
 
 Every repository here is the **free edition** — fully functional, Apache-2.0, running the same engine as the paid tiers. Pro and Team tiers (higher limits, more alert channels, team features) and the complete **[Hexward Suite](https://whop.com/hexward-suite)** bundle are on Whop.
 
+The six above watch your infrastructure. **[RuleForge](https://github.com/nizartuanku/ruleforge)** does something different: it moves it. Firewall configs converted between Cisco ASA, FTD, Palo Alto PAN-OS, FortiGate and Check Point — all 20 directions, not one. Deep analysis and an editable mapping step before anything is generated, per-element accounting so nothing is silently dropped, and round-trip verification that re-parses its own output and diffs it against the source. Dashboard on `:8428`.
+
 Running Cisco Secure Firewall? **[Firewall Operations Platform](https://whop.com/firewall-ops-platform)** covers the Cisco-depth side: upgrade orchestration, content updates, dead object cleanup, NAT-aware event mapping, and flow graphs for FMC & FTD.
 
 ---
