@@ -1,3 +1,13 @@
+### New here? Start with RuleHawk.
+
+Your firewall rule base rots. Rules pile up, a broad allow shadows the deny meant to protect something, and nobody recalls why rule 47 exists. RuleHawk reads an exported config and surfaces the dangerous parts, worst first — free, self-hosted, Apache-2.0, one binary, no signup.
+
+→ **[Start here: RuleHawk](https://github.com/nizartuanku/rulehawk)**
+
+Learning defensive security? Every repository below is also a working lab. Clone it, run the binary, point it at a network you own, and read what it finds.
+
+---
+
 ## Hexward — self-hosted security tools
 
 Six focused tools on one shared core. Each answers a question a small team actually asks — and they work as a system: **Loglight** can ingest the other tools' alerts and fold them into its kill-chain correlation. Your data never leaves your network: single Go binaries, SQLite, offline license validation, no telemetry, no phone-home.
@@ -19,4 +29,4 @@ Running Cisco Secure Firewall? **[Firewall Operations Platform](https://whop.com
 
 ---
 
-Weekly security habits, explained for people who don't work in security: [Instagram @nizartuanku](https://instagram.com/nizartuanku)
+Hands-on labs, real attacks and practical fixes: [Instagram @nizartuanku](https://www.instagram.com/nizartuanku)
