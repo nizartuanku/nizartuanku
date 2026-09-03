@@ -1,6 +1,6 @@
-## Nizar Tuanku — network security since 2007
+## Nizar Tuanku | Cybersecurity
 
-I build **Hexward**: self-hosted security tools for MSPs and network engineers. Single Go binary, SQLite, offline licence check, no telemetry, no phone-home. Every repository below is the free edition — the same engine as the paid tiers, Apache-2.0.
+Network security since 2007, 2x CCIE. I build **Hexward**: self-hosted security tools for MSPs and network engineers. Single Go binary, SQLite, offline licence check, no telemetry, no phone-home. Every repository below is the free edition — the same engine as the paid tiers, Apache-2.0.
 
 ### Start here
 
@@ -27,7 +27,7 @@ If one of these saves you an hour, a ⭐ on the repo is how the next engineer fi
 | [DmarcWatch](https://github.com/nizartuanku/dmarcwatch) | Who is sending mail as our domain? | `:8429` |
 | [TenantWatch](https://github.com/nizartuanku/tenantwatch) | Is our Microsoft 365 / Google Workspace tenant configured the way we think? | `:8430` |
 | [Posture Report](https://github.com/nizartuanku/posture-report) | One score across the whole stack — what is it this week? | `:8432` |
-| [TopoLight](https://github.com/nizartuanku/topolight) | What does the physical network look like right now, and what is the root cause? | `:8432` |
+| [TopoLight](https://github.com/nizartuanku/topolight) | What does the physical network look like right now, and what is the root cause? | `:8433` |
 | [AuditLight](https://github.com/nizartuanku/auditlight) | What would an assessor find — before the assessor does? | `:8431` |
 
 They work as a system: every tool can emit findings as syslog, and **Loglight** folds them into kill-chain incidents. Pro and Team tiers (higher limits, more alert channels, team features) are on Whop — **[all products](https://whop.com/nizar-tuanku?utm_source=github&utm_medium=profile)**, 14-day trial, key delivered by DM right after checkout. Running Cisco Secure Firewall? [Firewall Operations Platform](https://whop.com/nizar-tuanku/firewall-ops-platform?utm_source=github&utm_medium=profile) covers FMC/FTD operations.
