@@ -1,6 +1,6 @@
-## Hexward Labs | Nizar Tuanku | Cybersecurity
+## Hexward Labs | Cybersecurity
 
-I build **Hexward Labs**: self-hosted Cybersecurity tools for MSPs and network engineers. Single Go binary, SQLite, offline licence check, no telemetry, no phone-home. Every repository below is the free edition — the same engine as the paid tiers, Apache-2.0.
+Nizar Tuanku build **Hexward Labs**: self-hosted Cybersecurity tools for MSPs and network engineers. Single Go binary, SQLite, offline licence check, no telemetry, no phone-home. Every repository below is the free edition — the same engine as the paid tiers, Apache-2.0.
 
 ### Start here
 
