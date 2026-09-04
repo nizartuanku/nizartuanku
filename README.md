@@ -1,6 +1,6 @@
 ## Nizar Tuanku | Cybersecurity
 
-Network security since 2007, 2x CCIE. I build **Hexward**: self-hosted security tools for MSPs and network engineers. Single Go binary, SQLite, offline licence check, no telemetry, no phone-home. Every repository below is the free edition — the same engine as the paid tiers, Apache-2.0.
+I build **Hexward**: self-hosted security tools for MSPs and network engineers. Single Go binary, SQLite, offline licence check, no telemetry, no phone-home. Every repository below is the free edition — the same engine as the paid tiers, Apache-2.0.
 
 ### Start here
 
