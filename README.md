@@ -1,12 +1,12 @@
 ## Hexward Labs | Cybersecurity
 
-Nizar Tuanku build **Hexward Labs**: self-hosted Cybersecurity tools for MSPs and network engineers. Single Go binary, SQLite, offline licence check, no telemetry, no phone-home. Every repository below is the free edition — the same engine as the paid tiers, Apache-2.0.
+Nizar Tuanku builds **Hexward Labs**: self-hosted Cybersecurity tools for MSPs and network engineers. Single Go binary, SQLite, offline licence check, no telemetry, no phone-home. Every repository below is the free edition — the same engine as the paid tiers, Apache-2.0.
 
 ### Start here
 
 | If you want to… | Open this | See it before you run it |
 |---|---|---|
-| Migrate a firewall between vendors (ASA / FTD / PAN-OS / FortiGate / Check Point) with nothing silently dropped | [**RuleForge**](https://github.com/nizartuanku/ruleforge) | [Sample conversion report](https://github.com/nizartuanku/ruleforge/blob/main/docs/samples/asa-to-panos-conversion-process-report.pdf) · [final migration report](https://github.com/nizartuanku/ruleforge/blob/main/docs/samples/asa-to-panos-final-migration-report.pdf) |
+| Migrate a firewall between vendors (ASA / FTD / PAN-OS / FortiGate / Check Point) with every unconverted item listed | [**RuleForge**](https://github.com/nizartuanku/ruleforge) | [Sample conversion report](https://github.com/nizartuanku/ruleforge/blob/main/docs/samples/asa-to-panos-conversion-process-report.pdf) · [final migration report](https://github.com/nizartuanku/ruleforge/blob/main/docs/samples/asa-to-panos-final-migration-report.pdf) |
 | Find the shadowed, permissive and drifted rules in a config you already have | [**RuleHawk**](https://github.com/nizartuanku/rulehawk) | [Four sample configs](https://github.com/nizartuanku/rulehawk/tree/main/docs/samples) — the ASA one yields 11 findings, 2 high |
 | Stop a certificate from taking production down | [**CertLight**](https://github.com/nizartuanku/certlight) | Run it, add a host, results in seconds |
 | Read the cross-vendor gotchas without installing anything | [**Firewall migration notes**](https://github.com/nizartuanku/firewall-migration-notes) | [FortiGate central NAT](https://github.com/nizartuanku/firewall-migration-notes/blob/main/fortigate-central-nat.md) |
