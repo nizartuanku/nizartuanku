@@ -1,6 +1,8 @@
-## Hexward Labs | Cybersecurity
+## Hexward Labs | Cybersecurity Tools + AI
 
 Nizar Tuanku builds **Hexward Labs**: self-hosted Cybersecurity tools for MSPs and network engineers. Single Go binary, SQLite, offline licence check, no telemetry, no phone-home. Every repository below is the free edition — the same engine as the paid tiers, Apache-2.0.
+
+**New: AI Assist in every tool.** An optional ✨ Explain button turns a finding into plain language and a short list of what to check, using a small language model on your own hardware ([hexward-ai](https://github.com/nizartuanku/hexward-ai)). Off by default; the engine still decides every finding and severity.
 
 ### Start here
 
@@ -29,6 +31,7 @@ If one of these saves you an hour, a ⭐ on the repo is how the next engineer fi
 | [Posture Report](https://github.com/nizartuanku/posture-report) | One score across the whole stack — what is it this week? | `:8432` |
 | [TopoLight](https://github.com/nizartuanku/topolight) | What does the physical network look like right now, and what is the root cause? | `:8433` |
 | [AuditLight](https://github.com/nizartuanku/auditlight) | What would an assessor find — before the assessor does? | `:8431` |
+| [hexward-ai](https://github.com/nizartuanku/hexward-ai) | What does this finding mean, in plain words — without leaving my network? | `:8435` |
 
 They work as a system: every tool can emit findings as syslog, and **Loglight** folds them into kill-chain incidents. Pro and Team tiers (higher limits, more alert channels, team features) are on Whop — **[all products](https://whop.com/nizar-tuanku?utm_source=github&utm_medium=profile)**, 14-day trial, key delivered by DM right after checkout. Running Cisco Secure Firewall? [Firewall Operations Platform](https://whop.com/nizar-tuanku/firewall-ops-platform?utm_source=github&utm_medium=profile) covers FMC/FTD operations.
 
