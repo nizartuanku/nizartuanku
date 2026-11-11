@@ -35,6 +35,14 @@ If one of these saves you an hour, a ⭐ on the repo is how the next engineer fi
 
 They work as a system: every tool can emit findings as syslog, and **Loglight** folds them into kill-chain incidents. Pro and Team tiers (higher limits, more alert channels, team features) are on Whop — **[all products](https://whop.com/nizar-tuanku?utm_source=github&utm_medium=profile)**, 14-day trial, key delivered by DM right after checkout. Running Cisco Secure Firewall? [Firewall Operations Platform](https://whop.com/nizar-tuanku/firewall-ops-platform?utm_source=github&utm_medium=profile) covers FMC/FTD operations.
 
+### Learn Cisco Secure Firewall and Cisco ISE
+
+Every YouTube lesson has a written companion: notes, a lab, a verification checklist and a quiz, with a certificate at the end. Independent training; not affiliated with Cisco.
+
+- [**FMC & FTD Study Pack**](https://whop.com/nizar-tuanku/fmc-ftd-study-pack/?utm_source=github&utm_medium=profile&utm_campaign=studypack) — Cisco Secure Firewall, 15 modules
+- [**Cisco ISE Study Pack**](https://whop.com/nizar-tuanku/cisco-ise-study-pack/?utm_source=github&utm_medium=profile&utm_campaign=studypack_ise) — 62 use cases, from 802.1X to TrustSec
+- Need a second pair of eyes? [FMC/FTD Health Check](https://whop.com/nizar-tuanku/fmc-ftd-health-check/?utm_source=github&utm_medium=profile) · [Firewall Migration Config Review](https://whop.com/nizar-tuanku/firewall-migration-review/?utm_source=github&utm_medium=profile) — fixed price, async, no access to your systems
+
 ### Writing and video
 
 Real migrations, real attacks, practical fixes — one mistake per post: [Hexward Labs on LinkedIn](https://www.linkedin.com/company/143576107/) · [YouTube](https://www.youtube.com/@nizartuanku) · [Documentation hub](https://nizartuanku.github.io)
